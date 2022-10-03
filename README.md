@@ -14,6 +14,7 @@ Projeto feito durante a Imersão Java da Alura. O objetivo era consumir uma API 
 | 🚀 URL         | https://alura-linguagensapi.herokuapp.com/linguagens
 | 🤿 Desafio | https://www.alura.com.br/imersao-java
 
+![](https://www.alura.com.br/artigos/assets/vitrine-dev/vitrine-dev-alura.jpg#vitrinedev)
 
 ## 🔨 Tecnologias
 - ``Java - 17.0.3 2022-04-19``
